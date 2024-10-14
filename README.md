@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hallo! Ich bin Karim Hamade
 
-<!--
-**Karimhamade/Karimhamade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+Ich bin ein Entwickler mit einer Leidenschaft für das Erlernen neuer Technologien und das Arbeiten an spannenden Projekten. Ich interessiere mich besonders für:
+- **Webentwicklung**
+- **Open-Source-Projekte**
+- **Cloud-Technologien**
 
-Here are some ideas to get you started:
+## Woran ich derzeit arbeite
+- Ein persönliches Portfolio-Projekt.
+- Beiträge zu Open-Source-Projekten.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was ich lernen möchte
+- Mehr über **Maschinelles Lernen** und **Künstliche Intelligenz**.
+- Weiteres über **Cloud Computing** und **DevOps**.
+
+## Meine Hobbys
+- Programmieren 🖥️
+- Bücher lesen 📚
+- Wandern 🚶‍♂️
+
+## Kontaktiere mich
+- GitHub: [Karimhamade](https://github.com/Karimhamade)
